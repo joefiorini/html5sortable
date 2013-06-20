@@ -1,5 +1,5 @@
 {
   "name": "html5sortable",
   "version": "1.0.0",
-  "main": "jquery.sortable.js"
+  "main": "./jquery.sortable.js"
 }
